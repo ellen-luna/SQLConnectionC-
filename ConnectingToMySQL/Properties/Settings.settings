@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConnectingToMySQL.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UsernameEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ellenluna78@gmail.com</Value>
+    </Setting>
+    <Setting Name="PWEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Azariah@01</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
